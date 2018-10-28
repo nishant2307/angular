@@ -18,3 +18,5 @@ getTestBed().initTestEnvironment(
 const context = require.context('./', true, /\.spec\.ts$/);
 // And load the modules.
 context.keys().map(context);
+//// "node_module/font-awesome/css/font-awesome.css",
+//angular.json styles
